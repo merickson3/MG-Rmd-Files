@@ -1,3 +1,3 @@
 
 
-![Mary Feed Analysis](/assets/maryfeed.jpg)
+![Mary Feed Analysis](/assets/Mary Feed Analysis.tiff)
