@@ -1,5 +1,5 @@
 ---
-title: "MG Markdown"
+title: "Files"
 ---
 
 MG miscellaneous markdown files to share.
