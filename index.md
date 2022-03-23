@@ -1,5 +1,5 @@
 ---
-title: "MAW636 ADSA"
+title: "MG Markdown"
 ---
 
-Production data analysis. 
+MG miscellaneous markdown files to share.
